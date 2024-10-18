@@ -8,8 +8,8 @@
 	</RunConfiguration>
 	<TestRunParameters>
 		<!--WebDriver Settings-->
-		<Parameter name="browser" value="chrome" />
-		<Parameter name="isRemoteBrowser" value="true" />
+		<Parameter name="browser" value="chrome"/>
+		<Parameter name="isRemoteBrowser" value="true"/>
 		<!--NLog config-->
 		<Parameter name="logLevel" value="Debug"/>
 	</TestRunParameters>
